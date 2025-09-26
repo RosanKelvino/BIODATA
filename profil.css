@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    text-decoration: none;
     border: none;
     outline: none;
 }
@@ -31,6 +30,10 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+.Profil {
+    text-decoration: none;
+}
+
 
 .logo {
     font-size: 3rem;
