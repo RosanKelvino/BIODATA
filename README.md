@@ -8,13 +8,26 @@
 <h2>PEMBAHASAN</h2>
 <h3>Profil.html dan profil.css</h3>
 <p>Halaman ini menampilkan biodata dengan desain yang bersih dan modern. Struktur halaman diatur dengan elemen HTML seperti header, nav, section, dan div. Sedangkan CSS digunakan untuk mengatur warna, ukuran font, tata letak, serta memberikan efek desain seperti posisi header tetap, gambar profil berbentuk lingkaran, dan teks yang rata.</p>
-<p>Fungsi Kode:</p>
+<p>Fungsi Kode Profil.html:</p>
 <ul>
-   <li>
-     Profil.html
-     <li>Header -> menyediakan h1 untuk menampilkan judul dan nav untuk menyedaiakn navigasi dengan link home dan profil</li>
-   </li>
+     <li>Header -> menyediakan h1 untuk menampilkan judul dan nav untuk                menyedaiakn navigasi dengan link home dan profil</li
+    <li>Section -> berisi halaman utama dengan menampilkan dua elemen div yaitu foto dan konten</li>                                                                       
 </ul>
+<p>Fungsi Kode profil.css</p>
+<ul>
+   <li>margin untuk memberi jarak diluar elemen</li>
+   <li>padding untuk memberi jarak didalam elemen</li>
+   <li>font-size mengatur ukuran font </li>
+   <li>background-color untuk mengatur warna latar belakang</li>
+   <li>position: fixed  diperlukan untuk membuat bagian header selalu berada diatas layar meskipun halaman discroll</li>
+   <li>color untuk mengatur warna pada font</li>
+   <li>display: flex,gap,text-align:justify untuk mengatur tata letak konten menggunakan flexbox sehingga foto dan teks berada sejajar</li>
+   <li>border-radius:50% untuk membentuk foto berbentuk lingkaran</li>
+   <li>cursor:pointer untuk mengubah bentuk cursor saat berada diobjek home dan profil</li>
+   <li>box-sizing:border-box membuat ukuran elemen tetap sesuai yang diatur</li>
+</ul>
+
+
 
 
 
