@@ -10,8 +10,10 @@
 <p>Halaman ini menampilkan biodata dengan desain yang bersih dan modern. Struktur halaman diatur dengan elemen HTML seperti header, nav, section, dan div. Sedangkan CSS digunakan untuk mengatur warna, ukuran font, tata letak, serta memberikan efek desain seperti posisi header tetap, gambar profil berbentuk lingkaran, dan teks yang rata.</p>
 <p>Fungsi Kode:</p>
 <ul>
-  Profil.html
-  <li>Header -> menyediakan</li>
+   <li>
+     Profil.html
+     <li>Header -> menyediakan h1 untuk menampilkan judul dan nav untuk menyedaiakn navigasi dengan link home dan profil</li>
+   </li>
 </ul>
 
 
